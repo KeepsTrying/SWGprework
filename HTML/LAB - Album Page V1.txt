@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="eng-US">
+<head><title>Album Page V1</title><head>
+<body>
+<h1>Tales from the Punchbowl</h1>
+<h2>Primus</h2>
+<h3>June 6, 1995</h3>
+<p>Stories with morals told over one of Funk-Rock's finest examples</p>
+
+
+<h2>Band Members</h2>
+<ul>
+<li>Les Claypool – bass, six string bass, vocals, bass banjo, upright bass, fretless bass</li>
+<li>Larry LaLonde – guitar, 6-string banjo</li>
+<li>Tim Alexander – drums, drum samples</li>
+</ul>
+
+</body>
+</html>

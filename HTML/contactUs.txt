@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="eng-US">
+<head><title>contactUs</title></head>
+<body>
+
+<form action="mycompany.html" method="POST">
+First Name:<input type="text" name="FirstName"/>
+<br>
+Last Name:<input type="text" name="LastName"/>
+<br>
+Email:<input type="text" name="email"/>
+<br>
+
+Type of License:<input type="radio" name="License" value="Business" checked/><input type="radio" name="License" value="Personal"/>
+<br>
+
+Reason: <select name="Options">
+<option value="Reason">Select a Reason</option>
+<option value="Soft">Software Support</option>
+<option value="Hard">Hardware Support</option>
+<option value="Info">Information Request</option>
+</select>
+<br>
+
+Additional Information: <textarea name="addinfo"></textarea>
+<br>
+
+<input type="checkbox" name="agreeTOS" value="I have read the terms of service."/>
+</br>
+<input type="submit" value="Send Request"/>
+</form>
+
+
+
+
+
+
+
+
+</body>
+</html>

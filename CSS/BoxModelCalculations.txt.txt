@@ -1,0 +1,37 @@
+
+ABSOLUTE MEASUREMENT
+
+margin-top + border-top + padding-top + (height of the content)+ padding-bottom + border-bottom + margin-bottom
+
+If you are trying to get the element’s total width, the calculation is:
+
+margin-left + border-left + padding-left + (width of the content)+ padding-right + border-right + margin-right
+
+
+
+For Absolute Width:
+20 + 1 + 10 + 400 + 10 + 1 + 20 = 462
+
+For Absolute Height:
+20 + 1 + 10 + 150 + 10 + 1 + 20 = 212
+
+
+
+
+
+BROWSER CALCULATED MEASUREMENTS (DO NOT INCLUDE THE MARGIN)
+
+Browser calculated width: border-left + padding-left + (width of the content)+ padding-right + border-right
+
+Browser calculated height: border-top + padding-top + (height of the content)+ padding-bottom + border-bottom
+
+
+For Browser calculated Width:
+1 + 10 + 400 + 10 + 1 = 422
+
+For Browser Calculated Height:
+1 + 10 + 150 + 10 + 1 = 172
+
+
+
+
